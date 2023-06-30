@@ -1,0 +1,8 @@
+.main{
+    /* border:1px solid black; */
+    width:270px;
+    padding:20px;
+    background-color: lightskyblue;
+    box-shadow: 0 0 10px black;
+    margin-bottom: 10px;
+}

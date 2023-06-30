@@ -1,0 +1,15 @@
+.topMain{
+  display:grid;
+  grid-template-columns: repeat(4,1fr);
+  gap:5px;
+  padding:10px;
+  margin-top:40px;
+}
+h1{
+  text-align: center;
+  text-shadow: 2px 2px 5px red;
+  font-size:50px;
+}
+body{
+  background-image: linear-gradient(to right,aqua , lightgreen);
+}
